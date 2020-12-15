@@ -27,8 +27,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -58,9 +56,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -222,6 +217,6 @@ Project Link: [https://github.com/jyodroid/livebarcodescan](https://github.com/j
 [issues-shield]: https://img.shields.io/github/issues/jyodroid/livebarcodescan.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/livebarcodescan/issues
 [license-shield]: https://img.shields.io/github/license/jyodroid/livebarcodescan.svg?style=for-the-badge
-[license-url]: https://github.com/jyodroid/livebarcodescan/blob/master/LICENSE.txt
+[license-url]: https://github.com/jyodroid/livebarcodescan/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://co.linkedin.com/in/john-tangarife-31aba070
