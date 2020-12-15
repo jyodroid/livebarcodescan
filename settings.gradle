@@ -1,0 +1,3 @@
+include ':livebarcodescan'
+include ':app'
+rootProject.name = "BarcodeScanner"
