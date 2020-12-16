@@ -105,7 +105,7 @@ Android Studio
 
 2. Include the dependency on app level build.gradle
    ```gradle
-      implementation 'com.github.jyodroid:livebarcodescan:0.0.1'
+      implementation 'com.github.jyodroid:livebarcodescan:RELEASE_VERSION'
    ```
 
 3. Add Activities to manifest
